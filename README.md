@@ -1,4 +1,7 @@
-### Hi there 👋
+### hi there, stranger (●'◡'●)
+ currently working on my pen-box project, focused on backend. <br>
+ my contacts: <a href="https://t.me/elenmeadows">telegram</a> | elenmeadows@gmail.com<br><br>
+see ya!
 
 <!--
 **elenmeadows/elenmeadows** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
